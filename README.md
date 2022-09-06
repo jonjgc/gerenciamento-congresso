@@ -26,11 +26,11 @@ Após o download do projeto ou clone em sua máquina, fazer uma cópia do arquiv
 
 Em seguida, executar os seguintes comandos:
 
- - php artisan key: generate;
- - npm install;
- - composer install;
- - executar simultaneamente os comandos "npm run dev" e "php artisan serve";
- - php artisan migrate: -- seed;
+ - php artisan key: generate  (informações relacionadas a criptografia)
+ - npm install
+ - composer install
+ - executar simultaneamente os comandos "npm run dev" e "php artisan serve"
+ - php artisan migrate: -- seed
 
 OBS: talvez apareça alguns erros para a execução do projeto, provavelmente advindo do arquivo php.ini, para corrigí-los, encontre o arquivo php.ini e descomente os comandos: 
 
