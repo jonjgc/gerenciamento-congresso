@@ -4,7 +4,7 @@ O sistema consiste no gerenciamento de um congresso fictício onde os participan
 
 ## Até o momento, o sistema está com as seguintes funcionalidades:
 
-  - O Admin pode deletar usuário, editar permissão do usuário, ver a lista de usuários iscritos, e ver a lista de universidades cadastradas;
+  - O Admin pode deletar usuário, editar permissão do usuário, ver a lista de usuários inscritos, e ver a lista de universidades cadastradas;
   - Login para inscrição de participantes, Editores e Corretores, sendo que essa permissões são concedidas pelo admin;
   - Os usuários do tipo Corretor e Editor tem as mesmas permissões, onde ao logar no sistema, eles podem visualizar os trabalhos que foram submetidos, avaliar e          atribuir uma nota, onde automaticamente vai aparecer a nota atribuída ao participante que submeteu o trabalho;
   - o usuário Particpante ao fazer o login, pode anexar o trabalho, bem como tambem pode editar o mesmo antes que seu trabalho seja avaliado pelo editor ou corretor. tambem pode ver a nota que foi dada para o seu trabalho.
