@@ -2,7 +2,7 @@
 
 O sistema consiste no gerenciamento de um congresso fictício onde os participantes submetem seus trabalhos e os corretores e editores avaliam e atribuem uma nota.
 
-## Até o momento, o sistema está com as seguintes funcionalidades:
+## O sistema está com as seguintes funcionalidades:
 
   - O Admin pode deletar usuário, editar permissão do usuário, ver a lista de usuários inscritos, adicionar universidades, e ver a lista de universidades cadastradas;
   - Login para inscrição de participantes, Editores e Corretores, sendo que essas permissões são concedidas pelo admin;
